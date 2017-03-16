@@ -1,0 +1,11 @@
+.ba-container	{
+	width: 1230px;
+}
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+.ba-row + .ba-row {
+	margin-top: 30px;
+}
